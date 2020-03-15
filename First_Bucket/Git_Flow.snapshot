@@ -1,0 +1,47 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "externalControllerServices" : { },
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "funnels" : [ ],
+        "identifier" : "1f1fd9e7-7553-37ef-a4a5-bd147c154e58",
+        "inputPorts" : [ ],
+        "labels" : [ {
+          "componentType" : "LABEL",
+          "groupIdentifier" : "1f1fd9e7-7553-37ef-a4a5-bd147c154e58",
+          "height" : 485.0,
+          "identifier" : "b52823f0-694e-3e77-991e-80844a2f3dbb",
+          "label" : "Send Logs to Core",
+          "position" : {
+            "x" : 240.0,
+            "y" : -192.0
+          },
+          "style" : {
+            "background-color" : "#a6b8ff",
+            "font-size" : "16px"
+          },
+          "width" : 1577.9998779296875
+        } ],
+        "name" : "Log-Flow",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : 1381.9342071881945,
+          "y" : 370.56835550488177
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      },
+      "flowEncodingVersion" : "1.0",
+      "parameterContexts" : { }
+    }
+  }
+}
